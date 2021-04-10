@@ -40,4 +40,4 @@ client.on('message', message => {
 })
 
 //Token
-client.login('ODMwMTMxNzEyNzE2OTYzODkx.YHCOZw.A2UcvPf-JpcVYASnPkWo0pNJVUI');
+client.login('Paste Bot token');
